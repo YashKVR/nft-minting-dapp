@@ -3,6 +3,8 @@
 
 This is a NFT Minting dApp created using Next.js, Tailwind CSS, Framer Motion and Thirdweb.
 
+The app is built on Mumbai Matic Network and can be tested on Mumbai Matic Network(Polygon Testnet).
+
 Next.js is used for building a clean and smooth UI/UX.
 
 Tailwind works well with Next for styling components.
